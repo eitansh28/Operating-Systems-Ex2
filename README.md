@@ -15,9 +15,9 @@ SIGABRT.
 Command to compile the program:
 
 
-gcc -o main exc2.c
+>gcc -o main exc2.c
 
 
 and then:
 
-./main
+>./main
